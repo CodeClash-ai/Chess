@@ -1,0 +1,11 @@
+*.exe
+*.out
+*.o
+src/*.o
+src/kojiro
+src/perft
+
+*.txt
+
+.gdb_history
+.vscode
